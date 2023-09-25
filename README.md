@@ -1,5 +1,5 @@
 # God afton och välkommen till mitt Github page 👋
-## Mitt namn är Simon Mikaeå Ågren
+## Mitt namn är Simon Mikael Ågren
 ### Jag studerar för tillfället på Fjärde året av Nordens TeknikerInstituts teknikutbildning i Umeå
 
 #### Detta är projekt jag gjort eller medverkat i under detta år:
