@@ -8,20 +8,20 @@
   <li>
     <ul>
       <li>
-      Sida: https://timpan42.github.io/te4-pizza/
+      <p>Sida: https://timpan42.github.io/te4-pizza/</p>
       </li>
       <li>
-      Repository: https://github.com/Timpan42/te4-pizza
+      <p>Repository: https://github.com/Timpan42/te4-pizza</p>
       </li>
     </ul>
   </li>
   <li>
     <ul>
       <li>
-      Sida: https://judgementball.netlify.app/
+      <p>Sida: https://judgementball.netlify.app/</p>
       </li>
       <li>
-      Repository: https://github.com/TomtenPim/wu2-judgementball
+      <p>Repository: https://github.com/TomtenPim/wu2-judgementball</p>
       </li>
     </ul>
   </li>
