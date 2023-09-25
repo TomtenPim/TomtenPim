@@ -1,4 +1,34 @@
-### God afton 👋
+# God afton och välkommen till mitt Github page 👋
+## Mitt namn är Simon Mikaeå Ågren
+### Jag studerar för tillfället på Fjärde året av Nordens TeknikerInstituts teknikutbildning i Umeå
+
+#### Detta är projekt jag gjort eller medverkat i under detta år:
+
+<ul>
+  <li>
+    <ul>
+      <li>
+      Sida: https://timpan42.github.io/te4-pizza/
+      </li>
+      <li>
+      Repository: https://github.com/Timpan42/te4-pizza
+      </li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li>
+      Sida: https://judgementball.netlify.app/
+      </li>
+      <li>
+      Repository: https://github.com/TomtenPim/wu2-judgementball
+      </li>
+    </ul>
+  </li>
+</ul>
+
+
+
 
 <!--
 **TomtenPim/TomtenPim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
